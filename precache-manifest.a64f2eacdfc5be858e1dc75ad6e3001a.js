@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "490b59df7083ec05220111824182953a",
+    "revision": "8a66ae9d2ee05a8329ccd0269e50b7ec",
     "url": "/agenctwo/index.html"
   },
   {
@@ -8,16 +8,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/agenctwo/static/css/2.2e2f19ad.chunk.css"
   },
   {
-    "revision": "79a2ddbe8f0124fbed7d",
-    "url": "/agenctwo/static/css/main.9b6d7447.chunk.css"
+    "revision": "923000bc929aac53f9a8",
+    "url": "/agenctwo/static/css/main.a6dcfb56.chunk.css"
   },
   {
     "revision": "345266e9cc5b298c71ed",
     "url": "/agenctwo/static/js/2.4508ab15.chunk.js"
   },
   {
-    "revision": "79a2ddbe8f0124fbed7d",
-    "url": "/agenctwo/static/js/main.eaca6334.chunk.js"
+    "revision": "923000bc929aac53f9a8",
+    "url": "/agenctwo/static/js/main.18f589bf.chunk.js"
   },
   {
     "revision": "2414caa9ac8f2f80fe3d",

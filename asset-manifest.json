@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/agenctwo/static/css/main.9b6d7447.chunk.css",
-    "main.js": "/agenctwo/static/js/main.eaca6334.chunk.js",
-    "main.js.map": "/agenctwo/static/js/main.eaca6334.chunk.js.map",
+    "main.css": "/agenctwo/static/css/main.a6dcfb56.chunk.css",
+    "main.js": "/agenctwo/static/js/main.18f589bf.chunk.js",
+    "main.js.map": "/agenctwo/static/js/main.18f589bf.chunk.js.map",
     "runtime-main.js": "/agenctwo/static/js/runtime-main.93a49d8a.js",
     "runtime-main.js.map": "/agenctwo/static/js/runtime-main.93a49d8a.js.map",
     "static/css/2.2e2f19ad.chunk.css": "/agenctwo/static/css/2.2e2f19ad.chunk.css",
     "static/js/2.4508ab15.chunk.js": "/agenctwo/static/js/2.4508ab15.chunk.js",
     "static/js/2.4508ab15.chunk.js.map": "/agenctwo/static/js/2.4508ab15.chunk.js.map",
     "index.html": "/agenctwo/index.html",
-    "precache-manifest.9b151b9219e03f5a890075a8c3022d56.js": "/agenctwo/precache-manifest.9b151b9219e03f5a890075a8c3022d56.js",
+    "precache-manifest.a64f2eacdfc5be858e1dc75ad6e3001a.js": "/agenctwo/precache-manifest.a64f2eacdfc5be858e1dc75ad6e3001a.js",
     "service-worker.js": "/agenctwo/service-worker.js",
     "static/css/2.2e2f19ad.chunk.css.map": "/agenctwo/static/css/2.2e2f19ad.chunk.css.map",
-    "static/css/main.9b6d7447.chunk.css.map": "/agenctwo/static/css/main.9b6d7447.chunk.css.map",
+    "static/css/main.a6dcfb56.chunk.css.map": "/agenctwo/static/css/main.a6dcfb56.chunk.css.map",
     "static/media/App.css": "/agenctwo/static/media/baloon.1f437fbe.svg",
     "static/media/semantic.min.css": "/agenctwo/static/media/outline-icons.ef60a4f6.woff",
     "static/media/logo.svg": "/agenctwo/static/media/logo.f55e5671.svg",
@@ -22,7 +22,7 @@
     "static/js/runtime-main.93a49d8a.js",
     "static/css/2.2e2f19ad.chunk.css",
     "static/js/2.4508ab15.chunk.js",
-    "static/css/main.9b6d7447.chunk.css",
-    "static/js/main.eaca6334.chunk.js"
+    "static/css/main.a6dcfb56.chunk.css",
+    "static/js/main.18f589bf.chunk.js"
   ]
 }
