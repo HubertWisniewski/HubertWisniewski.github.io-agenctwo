@@ -1,4 +1,8 @@
-.App {
+#App {
+  text-align: center;
+}
+
+#App2 {
   text-align: center;
 }
 
@@ -6,7 +10,22 @@
   height: 40vmin;
 }
 
-.App-header {
+Button {
+  position: absolute;
+  bottom: 0;
+}
+
+.baloon {
+  background: url('../../img/baloon.svg') no-repeat center;
+  background-size: contain;
+  position: absolute;
+  bottom: 0;
+  height: 30vh;
+  width: 20vw;
+  
+}
+
+/* .App-header {
   background-color: #282c34;
   min-height: 100vh;
   display: flex;
@@ -15,7 +34,7 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
-}
+} */
 
 .App-link {
   color: #09d3ac;
