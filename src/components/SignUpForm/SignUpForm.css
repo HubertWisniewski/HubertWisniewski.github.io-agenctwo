@@ -21,11 +21,20 @@ justify-content: center;
     justify-content: center;
     }
 
-.SignUp {
-    position: absolute;
-    bottom: 27vh;
+.SignUpForm {
+    /* position: absolute;
+    bottom: 27vh; */
+    display: flex;
+    justify-content: space-between;  
+    flex-wrap: wrap;
+    margin-top: 40vh;
 }
 
 .Text {
-    margin-right: 1vw;
+    flex: 1 1 0;
+    
+}
+
+@media (max-width: 400px) {
+    
 }

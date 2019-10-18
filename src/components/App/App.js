@@ -89,7 +89,7 @@ render() {
           Zanim Duda zadzwoni możesz sobie poklikać w balony :v
         </h1>
       </header>
-      <Button onClick={this.handleClick}>Uciekam</Button>
+      <Button className="Uciekam" onClick={this.handleClick}>Uciekam</Button>
     </div>
   );
  }

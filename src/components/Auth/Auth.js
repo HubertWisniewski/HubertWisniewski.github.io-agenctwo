@@ -21,7 +21,7 @@ class Auth extends Component {
 
   render() {
     return this.state.user === null ? (
-      <div id="App2">
+      <div id="App2" style={{overflow: 'hidden'}}>
          <img src={logo} alt="logo" />
         <SignUpForm/>
         </div>

@@ -1,7 +1,20 @@
 img {
     position: absolute;
     top: 4vh;
-    height: 40vw;
-    width: 40v;
+    height: 80vh;
+    width: 80vw;
+    
+}
+
+
+@media (max-width: 400px) {
+
+    img {
+        position: absolute;
+        top: 4vh;
+        height: 80vh;
+        width: 100vw;
+        
+    }
     
 }
