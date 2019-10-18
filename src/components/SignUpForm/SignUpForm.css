@@ -3,6 +3,10 @@
     padding: 0
 }
 
+body {
+    overflow: hidden;
+}
+
 #App {
 background: url('../../img/tlo.jpg') no-repeat center;
 width: 100vw;
