@@ -3,6 +3,7 @@ img {
     top: 4vh;
     height: 80vh;
     width: 80vw;
+    z-index: 0;
     
 }
 

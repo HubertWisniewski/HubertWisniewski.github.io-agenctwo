@@ -39,3 +39,18 @@
 .App-link {
   color: #09d3ac;
 }
+
+
+@media (max-width: 400px) {
+
+  .baloon {
+    background: url('../../img/baloon.svg') no-repeat center;
+    background-size: contain;
+    position: absolute;
+    bottom: 0;
+    height: 50vh;
+    width: 50vw;
+    
+  }
+  
+}
